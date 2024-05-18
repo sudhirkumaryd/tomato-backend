@@ -8,7 +8,7 @@
     "node":"18.x"
   },
   "scripts": {
-    "server": "node server.js"
+    "start": "node server.js"
   },
   "author": "sudhir yadav",
   "license": "ISC",
